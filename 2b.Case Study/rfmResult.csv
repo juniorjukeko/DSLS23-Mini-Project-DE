@@ -1,0 +1,90 @@
+CustCompanyName,Recency,Frequency,MonetaryValue,R,F,M,RFM_Segment,RFM_Score,Segment,SegmentCheck
+Alfreds Futterkiste,255,6,4273,4,2,2,422,8,Potential Loyalists,42
+Ana Trujillo Emparedados y helados,596,4,1402.95,2,1,1,211,4,Hibernating,21
+Antonio Moreno Taquería,526,7,7023.98,3,2,2,322,7,New Customers,32
+Around the Horn,538,13,13390.65,3,4,3,343,10,Loyal Customers,34
+B's Beverages,619,10,6089.9,2,3,2,232,7,At Risk,23
+Berglunds snabbköp,633,18,24927.59,2,4,4,244,10,Can't Loose,24
+Blauer See Delikatessen,393,7,3239.8,4,2,1,421,7,Potential Loyalists,42
+Blondesddsl père et fils,651,11,18534.08,1,3,4,134,8,At Risk,13
+Bon app',568,17,21963.25,3,4,4,344,11,Loyal Customers,34
+Bottom-Dollar Markets,503,14,20801.61,4,4,4,444,12,Loyal Customers,44
+Bólido Comidas preparadas,574,3,4232.85,3,1,2,312,6,About to Sleep,31
+Cactus Comidas para llevar,373,6,1814.8,4,2,1,421,7,Potential Loyalists,42
+Centro comercial Moctezuma,658,1,100.8,1,1,1,111,3,Hibernating,11
+Chop-suey Chinese,665,8,12348.88,1,2,3,123,6,Hibernating,12
+Comércio Mineiro,618,5,3810.75,2,1,2,212,5,Hibernating,21
+Consolidated Holdings,457,3,1719.1,4,1,1,411,6,Promising,41
+Die Wandernde Kuh,605,10,9588.43,2,3,3,233,8,At Risk,23
+Drachenblut Delikatessen,527,6,3763.21,3,2,2,322,7,New Customers,32
+Du monde entier,594,4,1615.9,2,1,1,211,4,Hibernating,21
+Eastern Connection,527,8,14761.04,3,2,3,323,8,New Customers,32
+Ernst Handel,659,30,104874.99,1,4,4,144,9,Can't Loose,14
+Familia Arquibaldo,547,7,4107.55,3,2,2,322,7,New Customers,32
+Folies gourmandes,484,5,11666.9,4,1,3,413,8,Promising,41
+Folk och fä HB,652,19,29567.57,1,4,4,144,9,Can't Loose,14
+France restauration,232,3,3172.16,4,1,1,411,6,Promising,41
+Franchi S.p.A.,470,6,1545.7,4,2,1,421,7,Potential Loyalists,42
+Frankenversand,647,15,26656.57,1,4,4,144,9,Can't Loose,14
+Furia Bacalhau e Frutos do Mar,570,8,6427.43,3,2,2,322,7,New Customers,32
+GROSELLA-Restaurante,646,2,1488.7,1,1,1,111,3,Hibernating,11
+Galería del gastrónomo,525,5,836.7,3,1,1,311,5,About to Sleep,31
+Godos Cocina Típica,603,10,11446.36,2,3,3,233,8,At Risk,23
+Gourmet Lanchonetes,469,9,8414.13,4,3,3,433,10,Champions,43
+Great Lakes Food Market,366,11,18507.45,4,3,4,434,11,Champions,43
+HILARION-Abastos,660,18,22768.76,1,4,4,144,9,Can't Loose,14
+Hanari Carnes,668,14,32841.37,1,4,4,144,9,Can't Loose,14
+Hungry Coyote Import Store,517,5,3063.2,3,1,1,311,5,About to Sleep,31
+Hungry Owl All-Night Grocers,609,19,49979.91,2,4,4,244,10,Can't Loose,24
+Island Trading,588,10,6146.3,2,3,2,232,7,At Risk,23
+Königlich Essen,577,14,30908.39,3,4,4,344,11,Loyal Customers,34
+LILA-Supermercado,629,14,16076.6,2,4,3,243,9,Can't Loose,24
+LINO-Delicateses,486,12,16476.58,4,3,3,433,10,Champions,43
+La corne d'abondance,98,4,1992.05,4,1,1,411,6,Promising,41
+La maison d'Asie,542,14,9328.2,3,4,3,343,10,Loyal Customers,34
+Laughing Bacchus Wine Cellars,399,3,522.5,4,1,1,411,6,Promising,41
+Lazy K Kountry Store,412,2,357,4,1,1,411,6,Promising,41
+Lehmanns Marktstand,632,15,19261.42,2,4,4,244,10,Can't Loose,24
+Let's Stop N Shop,316,4,3076.47,4,1,1,411,6,Promising,41
+Lonesome Pine Restaurant,597,8,4258.6,2,2,2,222,6,Hibernating,22
+Magazzini Alimentari Riuniti,638,10,7176.22,2,3,3,233,8,At Risk,23
+Maison Dewey,365,7,9736.07,4,2,3,423,9,Potential Loyalists,42
+Morgenstern Gesundkost,636,5,5042.2,2,1,2,212,5,Hibernating,21
+Mère Paillarde,567,13,28872.19,3,4,4,344,11,Loyal Customers,34
+North/South,378,3,649,4,1,1,411,6,Promising,41
+Océano Atlántico Ltda.,483,5,3460.2,4,1,2,412,7,Promising,41
+Old World Delicatessen,601,10,15177.47,2,3,3,233,8,At Risk,23
+Ottilies Käseladen,657,10,12496.19,1,3,3,133,7,At Risk,13
+Pericles Comidas clásicas,580,6,4242.2,2,2,2,222,6,Hibernating,22
+Piccolo und mehr,540,10,23128.86,3,3,4,334,10,Need Attention,33
+Princesa Isabel Vinhos,561,5,5044.94,3,1,2,312,6,About to Sleep,31
+QUICK-Stop,640,28,110277.32,1,4,4,144,9,Can't Loose,14
+Que Delícia,657,9,6664.81,1,3,2,132,6,At Risk,13
+Queen Cozinha,519,13,25717.5,3,4,4,344,11,Loyal Customers,34
+Rancho grande,444,5,2844.1,4,1,1,411,6,Promising,41
+Rattlesnake Canyon Grocery,654,18,51097.8,1,4,4,144,9,Can't Loose,14
+Reggiani Caseifici,622,12,7048.24,2,3,2,232,7,At Risk,23
+Ricardo Adocicados,623,11,12450.81,2,3,3,233,8,At Risk,23
+Richter Supermarkt,664,10,19343.79,1,3,4,134,8,At Risk,13
+Romero y tomillo,631,5,1467.29,2,1,1,211,4,Hibernating,21
+Santé Gourmet,505,6,5735.15,3,2,2,322,7,New Customers,32
+Save-a-lot Markets,576,31,104361.95,3,4,4,344,11,Loyal Customers,34
+Seven Seas Imports,532,9,16215.33,3,3,3,333,9,Need Attention,33
+Simons bistro,555,7,16817.11,3,2,3,323,8,New Customers,32
+Split Rail Beer & Ale,644,9,11441.63,1,3,3,133,7,At Risk,13
+Spécialités du monde,176,4,2423.35,4,1,1,411,6,Promising,41
+Suprêmes délices,667,12,24088.78,1,3,4,134,8,At Risk,13
+The Big Cheese,594,4,3361,2,1,2,212,5,Hibernating,21
+The Cracker Box,273,3,1947.24,4,1,1,411,6,Promising,41
+Toms Spezialitäten,671,6,4778.14,1,2,2,122,5,Hibernating,12
+Tortuga Restaurante,637,10,10812.15,2,3,3,233,8,At Risk,23
+Tradição Hipermercados,617,6,6850.66,2,2,2,222,6,Hibernating,22
+Trail's Head Gourmet Provisioners,322,3,1571.2,4,1,1,411,6,Promising,41
+Vaffeljernet,525,11,15843.92,3,3,3,333,9,Need Attention,33
+Victuailles en stock,668,10,9182.43,1,3,3,133,7,At Risk,13
+Vins et alcools Chevalier,672,5,1480,1,1,1,111,3,Hibernating,11
+Wartian Herkku,650,15,15648.7,1,4,3,143,8,Can't Loose,14
+Wellington Importadora,661,9,6068.2,1,3,2,132,6,At Risk,13
+White Clover Markets,645,14,27363.61,1,4,4,144,9,Can't Loose,14
+Wilman Kala,281,7,3161.35,4,2,1,421,7,Potential Loyalists,42
+Wolski  Zajazd,518,7,3531.95,3,2,2,322,7,New Customers,32
